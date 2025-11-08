@@ -21,19 +21,10 @@ Creating, deleting, renaming, and copying files
 Searching files recursively by name
 Viewing detailed file information including size, permissions, and last modified time
 
-**Commands and Usage**
+**Commands**
 
 The File Explorer accepts simple text commands:
-list – Displays all files and folders in the current directory
-cd <folder> – Moves into the specified directory
-back – Returns to the parent directory
-create <file> – Creates a new file
-delete <file> – Deletes an existing file
-rename <old> <new> – Renames a file
-copy <src> <dest> – Copies a file
-search <name> – Searches for files recursively
-info <file> – Displays file details
-exit – Exits the program
+list, cd <folder>, back, create <file>, delete <file>, rename <old> <new>, copy <src> <dest>, search <name>, info <file>, exit
 
 **Example Execution**
 
@@ -65,3 +56,4 @@ The development environment used was Visual Studio Code with MinGW (g++) compile
 Aditya Kumar
 Capstone Project – Linux OS Track
 Department of Computer Science and Engineering
+
